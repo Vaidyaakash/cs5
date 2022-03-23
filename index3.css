@@ -62,8 +62,8 @@ body{
     z-index: 2;
     height: 175px;
     position: absolute;
-    top: 55vh;
-    left: 32vw;
+    top: 57.8vh;
+    left: 34.2vw;
     animation: car 5s linear infinite;
 }
 @keyframes car{
@@ -85,7 +85,7 @@ body{
     height: 78px;
     position: absolute;
     top: 70.9vh;
-    left: 34.6vw;
+    left: 36.5vw;
     animation: wheel1 0.1s infinite;
 }
 @keyframes wheel1{
@@ -98,7 +98,7 @@ body{
     height: 78px;
     position: absolute;
     top: 70.9vh;
-    left: 53.5vw;
+    left: 53.4vw;
     animation: wheel2 0.1s infinite;
 }
 @keyframes wheel2{
@@ -108,10 +108,10 @@ body{
 }
 .road{
     z-index: 0;
-    height:34vh;
+    height:40vh;
     width: 200%;
     position: absolute;
-    top: 66vh;
+    top: 61%;
     animation: road 5s linear infinite;
 }
 @keyframes road{
@@ -149,6 +149,6 @@ body{
     position: absolute;
     width: 70px;
     height: 70px;
-    top: 55.3vh;
+    top: 58vh;
     left:56vw;
 }
